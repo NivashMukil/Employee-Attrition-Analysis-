@@ -34,3 +34,10 @@ This project analyzes HR employee data to identify key factors contributing to e
 
 ## 🚀 Conclusion
 This project demonstrates how data analysis techniques can be used to identify key drivers of employee attrition and support HR teams in making informed decisions to improve retention.
+
+## 👤 Author
+**Nivash Mukil**
+
+LinkedIn: https://www.linkedin.com/in/nivash-mukil
+
+GitHub: https://github.com/NivashMukil
