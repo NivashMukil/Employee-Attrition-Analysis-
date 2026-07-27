@@ -32,6 +32,9 @@ This project analyzes HR employee data to identify key factors contributing to e
 - Job role-based attrition graphs
 - Correlation heatmap
 
+![alt text](<Screenshot 2026-04-06 225315.png>)
+![alt text](<Screenshot 2026-04-06 225255.png>)
+
 ## 🚀 Conclusion
 This project demonstrates how data analysis techniques can be used to identify key drivers of employee attrition and support HR teams in making informed decisions to improve retention.
 
